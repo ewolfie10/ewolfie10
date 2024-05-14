@@ -1,5 +1,5 @@
 # Contact Information
-**Ethan Wolfe _yeah baby_**<br/>
+**Ethan Wolfe**<br/>
 *wolfee2742@gmail.com*<br/>
 312-622-4560
 # Technologies
@@ -26,14 +26,14 @@ red | 0xff0000 | don't like it
 blue | 0x00ff00 | kinda like it
 green | 0x0000ff | my color
 
-#### Hi there, I'm Karl Larson [karlllarson][website]
-- 👋 Hi, I’m @karlllarson
+#### Hi there, I'm Ethan Wolfe [karlllarson][website]
+- 👋 Hi, I’m @ethanwolfe
 - 🌱 I’m currently training on [GitHub Course][website]
 
 ### connect with me.
 [<img alt="Karl Larson" width="40px" src="https://user-images.githubusercontent.com/35807054/118406518-e8374d80-b641-11eb-82ac-dd6b3ceca506.jpg" />][website]
 <!---
-karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ewolfie10/ewolfie10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
