@@ -24,7 +24,7 @@
 
 #### Hi there, I'm Ethan Wolfe 
 - 👋 Hi, I’m @ethanwolfe
-- 🌱 I’m currently training on [GitHub Course][website]
+- 🌱 I’m currently training on [GitHub Course](https://github.com/codesandbox/static-template/blob/master/.codesandbox/template.json)
 
 ### Connect with me on Linkedin <Link>https://www.linkedin.com/in/wolfee2742/</link> 
 
