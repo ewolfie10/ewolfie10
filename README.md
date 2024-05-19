@@ -8,20 +8,20 @@
 - HTML
 - [Python](https://docs.python.org/3/)
 - Ruby
-# Hobbies
-* Cycling
-* Lifting weights
-* Billiards
-  * 8 Ball
-  * 9 Ball
-  * One Pocket
 # Areas Of Expertise
 1. Product Marketing and Merchandising
 2. Building and Growing Strategic Business Partnerships
 3. Consultative Sales and Discovery
    1. Sports Retail
    2. 3PL Transportation
-
+# Hobbies
+* Cycling
+* Music - mainly House at the moment
+* Lifting weights
+* Billiards
+  * 8 Ball
+  * 9 Ball
+  * One Pocket
 #### Hi there, I'm Ethan Wolfe 
 - 👋 Hi, I’m @ethanwolfe
 - 🌱 I’m currently training on [GitHub Course](https://github.com/codesandbox/static-template/blob/master/.codesandbox/template.json)
