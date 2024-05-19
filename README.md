@@ -26,7 +26,7 @@
 - 👋 Hi, I’m @ethanwolfe
 - 🌱 I’m currently training on [GitHub Course](https://github.com/codesandbox/static-template/blob/master/.codesandbox/template.json)
 
-### [Connect with me on Linkedin](https://www.linkedin.com/in/wolfee2742/) 
+### [Connect With Me on Linkedin](https://www.linkedin.com/in/wolfee2742/) 
 
 ewolfie10/ewolfie10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
