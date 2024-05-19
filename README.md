@@ -16,26 +16,20 @@
   * 9 Ball
   * One Pocket
 # Areas Of Expertise
-1. Consultative Sales and Discovery
+1. Product Marketing and Merchandising
 2. Building and Growing Strategic Business Partnerships
-3. Product Marketing and Merchandising
+3. Consultative Sales and Discovery
    1. Sports Retail
    2. 3PL Transportation
-# Table
-Color | RGB | Comment
-------|-----|--------
-red | 0xff0000 | don't like it
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
 
-#### Hi there, I'm Ethan Wolfe [karlllarson][website]
+#### Hi there, I'm Ethan Wolfe 
 - 👋 Hi, I’m @ethanwolfe
 - 🌱 I’m currently training on [GitHub Course][website]
 
-### connect with me.
+### Connect with me on Linkedin [Website] : https://www.linkedin.com/in/wolfee2742/
 
 ewolfie10/ewolfie10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[website]: https://www.facebook.com/LarsonIpPc
+
