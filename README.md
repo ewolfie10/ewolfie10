@@ -26,7 +26,7 @@
 - 👋 Hi, I’m @ethanwolfe
 - 🌱 I’m currently training on [GitHub Course][website]
 
-### Connect with me on Linkedin [Website] : https://www.linkedin.com/in/wolfee2742/
+### Connect with me on Linkedin <Link>https://www.linkedin.com/in/wolfee2742/</link> 
 
 ewolfie10/ewolfie10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
