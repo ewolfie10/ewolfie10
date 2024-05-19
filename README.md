@@ -8,17 +8,19 @@
 - HTML
 - [Python](https://docs.python.org/3/)
 - Ruby
-# UnOrdered Items
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
-# Ordered Items
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
+# Hobbies
+* Cycling
+* Lifting weights
+* Billiards
+  * 8 Ball
+  * 9 Ball
+  * One Pocket
+# Areas Of Expertise
+1. Consultative Sales and Discovery
+2. Building and Growing Strategic Business Partnerships
+3. Product Marketing and Merchandising
+   1. Sports Retail
+   2. 3PL Transportation
 # Table
 Color | RGB | Comment
 ------|-----|--------
